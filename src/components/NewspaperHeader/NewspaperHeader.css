@@ -44,6 +44,10 @@
   text-align: right;
 }
 
+.SignUpAndLoginButtons button {
+  margin-left: 0.5rem;
+}
+
 .StockTicker {
   text-align: right;
 }

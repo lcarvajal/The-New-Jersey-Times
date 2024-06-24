@@ -1,8 +1,8 @@
 <img src="public/nytimes-screenshot.png" style="max-width:400;">
 
-# Newspaper clone
+# The New Jersey Times
 
-This project copies the home page of [The New York Times](https://www.nytimes.com).
+I'm using React to create The New Jersey Times, a newspaper website definitely not based on [The New York Times](https://www.nytimes.com).
 
 ## Tools
 - HTML / CSS
