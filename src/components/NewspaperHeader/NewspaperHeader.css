@@ -40,6 +40,10 @@
   text-align: left;
 }
 
+.SearchToolButton svg {
+  height: 16px;
+}
+
 .SignUpAndLoginButtons {
   text-align: right;
 }
