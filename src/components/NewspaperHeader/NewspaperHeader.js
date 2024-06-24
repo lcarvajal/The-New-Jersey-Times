@@ -1,5 +1,10 @@
 import "./NewspaperHeader.css"
 import ChangeLanguageButtons from "./ChangeLanguageButtons"
+import NavigationButtons from "./NavigationButtons"
+import NewspaperDetails from "./NewspaperDetails"
+import SearchToolButton from "./SearchToolButton"
+import SignUpAndLoginButtons from "./SignUpAndLoginButtons"
+import StockTicker from "./StockTicker"
 
 export default function NewspaperHeader() {
   return (
@@ -16,60 +21,5 @@ export default function NewspaperHeader() {
       </div>
       <NavigationButtons />
     </header>
-  )
-}
-
-function NewspaperDetails() {
-  return (
-    <div className="NewspaperDetails">
-      <p>
-        Monday, June 24, 2024
-        <br />
-        Today's paper
-      </p>
-    </div>
-  )
-}
-
-function StockTicker() {
-  return (
-    <div className="StockTicker">
-      <p>Nasdaq -></p>
-    </div>
-  )
-}
-
-function SearchToolButton() {
-  return (
-    <div className="SearchToolButton">
-      <button>search</button>
-    </div>
-  )
-}
-
-function SignUpAndLoginButtons() {
-  return (
-    <div className="SignUpAndLoginButtons">
-      <button>THE TIMES SALE</button>
-      <button>LOG IN</button>
-    </div>
-  )
-}
-
-function NavigationButtons() {
-  return (
-    <div className="NavigationButtons">
-      <ul>
-        <li>
-          <a href="">U.S.</a>
-        </li>
-        <li>
-          <a href="">World</a>
-        </li>
-        <li>
-          <a href="">Business</a>
-        </li>
-      </ul>
-    </div>
   )
 }
