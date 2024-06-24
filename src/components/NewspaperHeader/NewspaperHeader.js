@@ -16,7 +16,7 @@ export default function NewspaperHeader() {
       </div>
       <div className="NewspaperHeaderRow">
         <NewspaperDetails />
-        <h1>The New York Times</h1>
+        <img src="./logo.png" alt="The New York Times" />
         <StockTicker />
       </div>
       <NavigationButtons />

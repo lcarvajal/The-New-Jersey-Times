@@ -2,10 +2,17 @@
   border-bottom: double 3px black;
 }
 
+.NewspaperHeader img {
+  height: auto;
+  justify-self: center;
+  width: 70%;
+}
+
 .NewspaperHeaderRow {
   align-items: center;
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
+  padding: 0px 0px 0.3rem 0px;
 }
 
 .NewspaperHeader ul {
@@ -17,6 +24,12 @@
 .NewspaperHeader li {
   display: inline;
   margin: 0px 5px 0px 5px;
+}
+
+/* Other components */
+
+.NavigationButtons {
+  margin-bottom: 0.5rem;
 }
 
 .NewspaperDetails {
