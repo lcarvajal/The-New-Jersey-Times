@@ -12,3 +12,8 @@ button {
   padding: 8px 12px;
   text-decoration: none;
 }
+
+button:hover {
+  background-color: rgb(50, 104, 145);
+  color: white;
+}
