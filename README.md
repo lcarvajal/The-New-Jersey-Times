@@ -1,3 +1,5 @@
+<img src="public/nytimes-screenshot.png" style="max-width:400;">
+
 # Newspaper clone
 
 This project copies the home page of [The New York Times](https://www.nytimes.com).
