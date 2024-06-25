@@ -39,6 +39,13 @@
   width: 8px;
 }
 
+.NavigationButtons a:hover {
+  background: none;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.3em;
+}
+
 .NewspaperDetails {
   text-align: left;
 }
