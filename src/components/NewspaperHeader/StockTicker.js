@@ -26,7 +26,7 @@ export default function StockTicker() {
           percentageChange: randomPercentageChange,
         })
       }
-    }, 3000)
+    }, 4000)
     return () => clearInterval(interval)
   }, [])
 
