@@ -31,6 +31,14 @@
   margin-bottom: 0.5rem;
 }
 
+.NavigationButtons ul {
+  display: inline;
+}
+
+.NavigationButtons svg {
+  width: 8px;
+}
+
 .NewspaperDetails {
   text-align: left;
 }
