@@ -69,3 +69,7 @@
 .StockTicker {
   text-align: right;
 }
+
+.StockTickerDownArrow {
+  transform: rotate(180deg);
+}
