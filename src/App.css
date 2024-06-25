@@ -36,3 +36,11 @@ button:hover {
   background-color: rgb(50, 104, 145);
   color: white;
 }
+
+.TextRed {
+  color: rgb(166, 27, 30);
+}
+
+.TextGreen {
+  color: rgb(63, 137, 59);
+}
