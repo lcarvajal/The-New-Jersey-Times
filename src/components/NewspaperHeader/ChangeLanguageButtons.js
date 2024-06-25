@@ -6,7 +6,7 @@ export default function ChangeLanguageButtons() {
     { id: 3, title: 'ESPAÑOL' },
     { id: 4, title: '中文' },
   ]
-  const listItems = links.map(link => <li><a key={link.id} href="">{link.title}</a></li>)
+  const listItems = links.map(link => <li key={link.id}><a href="">{link.title}</a></li>)
 
   return (
     <div className="ChangeLanguageButtons">
