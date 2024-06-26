@@ -4,6 +4,8 @@
 
 I'm using React to create The New Jersey Times, a newspaper website definitely not based on [The New York Times](https://www.nytimes.com).
 
+View a [live deployment](https://the-new-jersey-times.vercel.app).
+
 ## Tools
 - HTML / CSS
 - React
