@@ -4,7 +4,7 @@
 
 I'm using React to create The New Jersey Times, a newspaper website definitely not based on [The New York Times](https://www.nytimes.com).
 
-View a [live deployment](https://the-new-jersey-times.vercel.app).
+<a href="https://the-new-jersey-times.vercel.app" target="_blank">View the live deployment.</a>
 
 ## Tools
 - HTML / CSS
@@ -13,12 +13,6 @@ View a [live deployment](https://the-new-jersey-times.vercel.app).
 
 ## Set up 
 1.  `npm start`
-
-## Current status
-
-<img src="public/njtimes-screenshot.png" style="max-width:400;">
-
-We have a fancy looking header!
 
 ## Roadmap
 
